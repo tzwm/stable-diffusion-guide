@@ -1,3 +1,7 @@
 {
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": false,
+  "vimMode": true
 }

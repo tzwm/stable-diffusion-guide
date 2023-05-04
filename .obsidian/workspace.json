@@ -11,29 +11,57 @@
             "id": "887ca44042134879",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2021-11-22-22-54-02.png"
+                "file": "draft/outline.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "575874ec69d131e4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2021-11-22-22-52-49.png"
-              }
-            }
-          },
-          {
-            "id": "a1b975b079f1bd99",
+            "id": "230e68f713ab5e25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/1. 控制系魔法/1.1 ControlNet 介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6239a90430d59abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c1bcfa806db06bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/1. 控制系魔法/1.1 ControlNet 介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e31037393b454a81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/0. 入门/0.1 webui 环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Features/Text Formatting.md",
+                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Features/Text Formatting.md"
+                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md"
               }
             }
           }
@@ -165,30 +193,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c85b7c7afacffcc7",
+  "active": "6239a90430d59abe",
   "lastOpenFiles": [
+    "docs/1. 控制系魔法/1.1 ControlNet 介绍.md",
+    "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
+    "draft/outline.md",
+    "docs/0. 入门/0.2 界面和功能介绍.md",
+    "docs/0. 入门/0.3 模型下载和上传.md",
+    "docs/0. 入门/0.1 webui 环境配置.md",
+    "docs/0. 入门/0.0 基本介绍.md",
+    "docs/index.md",
+    "draft",
+    "docs/1. 控制系魔法",
+    "docs/0. 入门",
+    "README.md",
+    "2021-11-22-22-49-26.png",
+    "2021-11-22-22-54-02.png",
+    "docs/Features/Text Formatting.md",
     "package.json",
     "requirements.txt",
     "docs/Features/LaTeX Math Support.md",
-    "2021-11-22-22-49-26.png",
-    "README.md",
-    "2021-11-22-22-54-02.png",
     "2021-11-22-22-52-49.png",
     "mkdocs.yml",
     "docs/javascripts/mathjax.js",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
-    "docs/Features/Text Formatting.md",
     "docs/Features/Mermaid Diagrams.md",
     "docs/javascripts",
-    "docs/index.md",
     "docs/Topic 1",
     "docs/Features",
-    "docs",
-    "LICENSE",
     "docs/WebUI 环境安装.md",
-    "package-lock.json",
-    "node_modules/lodash/castArray.js",
     "node_modules/q/CHANGES.md",
     "node_modules/commander/History.md",
     "node_modules/commander/Readme.md",
@@ -200,12 +234,6 @@
     "node_modules/fs-extra/docs/readJson-sync.md",
     "node_modules/fs-extra/docs/pathExists.md",
     "node_modules/fs-extra/docs/pathExists-sync.md",
-    "node_modules/fs-extra/docs/outputJson.md",
-    "node_modules/fs-extra/docs/outputJson-sync.md",
-    "node_modules/fs-extra/docs/outputFile.md",
-    "node_modules/fs-extra/docs/outputFile-sync.md",
-    "node_modules/fs-extra/docs/move.md",
-    "node_modules/fs-extra/docs/move-sync.md",
     "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png",
     "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png",
     "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/images/logo.png",
