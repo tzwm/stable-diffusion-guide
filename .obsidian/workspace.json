@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "f36bf0d8268404d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee4b842c6dee2fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "887ca44042134879",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2021-11-22-22-54-02.png"
+              }
+            }
+          },
+          {
+            "id": "575874ec69d131e4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2021-11-22-22-52-49.png"
+              }
+            }
+          },
+          {
+            "id": "a1b975b079f1bd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Features/Text Formatting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea0f61b171b38e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b10ea04411220f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c85b7c7afacffcc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dff903d47a34035b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9a1f6e91ad4f747",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29f8b998cd5085e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8ef84ad50669d78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e087c954cd42838c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Features/Text Formatting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "543219c529289080",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Features/Text Formatting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9375a410b3a81740",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b7cad38b4d4ba7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Features/Text Formatting.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c85b7c7afacffcc7",
+  "lastOpenFiles": [
+    "requirements.txt",
+    "docs/Features/LaTeX Math Support.md",
+    "2021-11-22-22-49-26.png",
+    "README.md",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "mkdocs.yml",
+    "docs/javascripts/mathjax.js",
+    "docs/Topic 1/Note 2.md",
+    "docs/Topic 1/Note 1.md",
+    "docs/Features/Text Formatting.md",
+    "docs/Features/Mermaid Diagrams.md",
+    "docs/javascripts",
+    "docs/index.md",
+    "docs/Topic 1",
+    "docs/Features",
+    "docs",
+    "LICENSE",
+    "docs/WebUI 环境安装.md",
+    "package-lock.json",
+    "package.json",
+    "node_modules/lodash/castArray.js",
+    "node_modules/q/CHANGES.md",
+    "node_modules/commander/History.md",
+    "node_modules/commander/Readme.md",
+    "node_modules/fs-extra/docs/writeJson.md",
+    "node_modules/fs-extra/docs/writeJson-sync.md",
+    "node_modules/fs-extra/docs/remove.md",
+    "node_modules/fs-extra/docs/remove-sync.md",
+    "node_modules/fs-extra/docs/readJson.md",
+    "node_modules/fs-extra/docs/readJson-sync.md",
+    "node_modules/fs-extra/docs/pathExists.md",
+    "node_modules/fs-extra/docs/pathExists-sync.md",
+    "node_modules/fs-extra/docs/outputJson.md",
+    "node_modules/fs-extra/docs/outputJson-sync.md",
+    "node_modules/fs-extra/docs/outputFile.md",
+    "node_modules/fs-extra/docs/outputFile-sync.md",
+    "node_modules/fs-extra/docs/move.md",
+    "node_modules/fs-extra/docs/move-sync.md",
+    "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png",
+    "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png",
+    "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/images/logo.png",
+    "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/images/hawk.png",
+    "node_modules/npmi/node_modules/npm/node_modules/npmlog/node_modules/gauge/example.png",
+    "node_modules/npmi/node_modules/npm/node_modules/npm-registry-client/node_modules/retry/equation.gif",
+    "node_modules/npmi/node_modules/npm/node_modules/retry/equation.gif"
+  ]
+}
