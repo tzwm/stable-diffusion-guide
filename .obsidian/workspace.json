@@ -167,6 +167,7 @@
   },
   "active": "c85b7c7afacffcc7",
   "lastOpenFiles": [
+    "package.json",
     "requirements.txt",
     "docs/Features/LaTeX Math Support.md",
     "2021-11-22-22-49-26.png",
@@ -187,7 +188,6 @@
     "LICENSE",
     "docs/WebUI 环境安装.md",
     "package-lock.json",
-    "package.json",
     "node_modules/lodash/castArray.js",
     "node_modules/q/CHANGES.md",
     "node_modules/commander/History.md",
