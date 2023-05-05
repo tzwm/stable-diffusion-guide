@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8ca795dcdfcb3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/1. 控制系魔法/1.2 ControlNet 图片复刻.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
+                "file": "docs/1. 控制系魔法/1.2 ControlNet 图片复刻.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
+                "file": "docs/1. 控制系魔法/1.2 ControlNet 图片复刻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/1. 控制系魔法/1.2 ControlNet - Depth.md"
+                "file": "docs/1. 控制系魔法/1.2 ControlNet 图片复刻.md"
               }
             }
           }
@@ -193,16 +205,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6239a90430d59abe",
+  "active": "d8ca795dcdfcb3e7",
   "lastOpenFiles": [
-    "docs/1. 控制系魔法/1.1 ControlNet 介绍.md",
-    "docs/1. 控制系魔法/1.2 ControlNet - Depth.md",
-    "draft/outline.md",
+    "docs/44. 游吟诗人/44.0 新鲜事.md",
+    "docs/index.md",
+    "docs/44. 游吟诗人",
+    "docs/0. 入门/0.1 webui 环境配置.md",
     "docs/0. 入门/0.2 界面和功能介绍.md",
     "docs/0. 入门/0.3 模型下载和上传.md",
-    "docs/0. 入门/0.1 webui 环境配置.md",
     "docs/0. 入门/0.0 基本介绍.md",
-    "docs/index.md",
+    "docs/1. 控制系魔法/1.2 ControlNet 图片复刻.md",
+    "docs/1. 控制系魔法/1.1 ControlNet 介绍.md",
+    "draft/outline.md",
     "draft",
     "docs/1. 控制系魔法",
     "docs/0. 入门",
@@ -221,7 +235,6 @@
     "docs/Features/Mermaid Diagrams.md",
     "docs/javascripts",
     "docs/Topic 1",
-    "docs/Features",
     "docs/WebUI 环境安装.md",
     "node_modules/q/CHANGES.md",
     "node_modules/commander/History.md",
@@ -233,7 +246,6 @@
     "node_modules/fs-extra/docs/readJson.md",
     "node_modules/fs-extra/docs/readJson-sync.md",
     "node_modules/fs-extra/docs/pathExists.md",
-    "node_modules/fs-extra/docs/pathExists-sync.md",
     "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/hoek/images/hoek.png",
     "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/node_modules/boom/images/boom.png",
     "node_modules/npmi/node_modules/npm/node_modules/request/node_modules/hawk/images/logo.png",
